@@ -1,0 +1,11 @@
+Efforts to streamline delivery of at-home test results
+States like Tennessee encourage people who use at-home tests to submit their results to the manufacturers so they can be tracked. It's unclear how many people actually do that, but there are several efforts underway to track home tests better.
+The Association of Public Health Laboratories is working with the NIH under a contract to use the association's electronic lab reporting platform, AIMS, to help streamline the reporting of Covid-19 home test results.
+This approach still relies on people who use at-home tests to report their results to manufacturers, but Association of Public Health Laboratories CEO Scott Becker hopes the AIMS system eases the process of manufacturers reporting to public health authorities.
+The initiative "is in recognition of the fact that this gap exists in reporting," Becker said.
+Covid-19 test-to-treat program stymied by lack of services, tech problems
+Covid-19 test-to-treat program stymied by lack of services, tech problems
+"From a public health perspective, that's sort of a missing data point, if you will, in the universe of testing," Becker said of at-home test results. "That's kind of a blind spot."
+The Association of Public Health Laboratories announced in March that it was awarded the NIH contract, limited to $8.8 million over three years, to work on improving the reporting of over-the-counter at-home Covid-19 test results to public health officials. The contract employs AIMS to collect data from at-home test manufacturers and then distribute the data to states and jurisdictions.
+"An at-home test has a digital tool that goes with it, and we're trying to build out, essentially, a spec that allows the data to flow through the hub to the places where it needs to get for state reporting," Becker said. "There are states that are interested in getting that data and that's really for situational awareness."
+Another platform pushing for more efficiency is ReportStream, a cloud-based data routing system set up by the US Digital Service in partnership with the US Centers for Disease Control and Prevention.
